@@ -1,5 +1,6 @@
 # HELLO I am Yashaswini K P
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashaswini-K-P)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashaswini-K-P&show_icons=true)](https://github.com/Yashaswini-K-P/github-readme-stats&show_icons=true)
+
 - 👋 Hi, I’m @Yashaswini-K-P
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
