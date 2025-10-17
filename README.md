@@ -25,13 +25,13 @@
 ---
 <h6 align="left">Connect with Me:</h6>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yashaswini-k-p-bb7249296/]) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c02)]([https://leetcode.com/u/Yashaswini_K_P/])
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/profile/yashaswinikpyas1])
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23B92A25.svg?style=flat&logo=CodeChef&logoColor=white)]([https://www.codechef.com/users/yashaswinikp3])
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d.svg?style=flat&logo=Codeforces&logoColor=white)]([https://codeforces.com/profile/Yashaswini_K_P])
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white)]([https://www.geeksforgeeks.org/user/yashaswinawa0/]) 
-[<img alt="Codolio Profile" src="https://img.shields.io/badge/Codolio-blue?style=flat&logoColor=white">]([https://codolio.com/profile/Yashaswini%20K%20P])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaswini-k-p-bb7249296/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c02)](https://leetcode.com/u/Yashaswini_K_P/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yashaswinikpyas1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23B92A25.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yashaswinikp3)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d.svg?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Yashaswini_K_P)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yashaswinawa0/) 
+[<img alt="Codolio Profile" src="https://img.shields.io/badge/Codolio-blue?style=flat&logoColor=white">](https://codolio.com/profile/Yashaswini%20K%20P)
 
 ---
 
