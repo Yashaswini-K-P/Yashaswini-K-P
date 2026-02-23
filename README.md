@@ -54,13 +54,14 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashaswini-K-P&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-K-P&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yashaswini-K-P&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashaswini-K-P&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-K-P&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
