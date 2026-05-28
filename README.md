@@ -64,13 +64,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-K-P&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Yashaswini-K-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashaswini-K-P&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yashaswini-K-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
 ---
 
 <h3 align="left">Support:</h3>
