@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yashaswini-K-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Yashaswini-K-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&rank_icon=percentile" />
 </p>
 ---
 
